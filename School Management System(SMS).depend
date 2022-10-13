@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1665650844 source:e:\school management system(sms)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Student.h"
+	"String.h"
+
+1665649524 e:\school management system(sms)\student.h
+
+1665593056 e:\school management system(sms)\string.h
+
+1665593056 source:e:\school management system(sms)\string.c
+	"String.h"
+	<stdio.h>
+
+1665651593 source:e:\school management system(sms)\student.c
+	<stdio.h>
+	<windows.h>
+	"Student.h"
+	"String.h"
+
